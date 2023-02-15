@@ -2,9 +2,9 @@
 
 **Instalacion:**
 
-Debes tener instalado nodeJS una vez clonado el proyecto, posteriormente ejecutar el comando:
+Debes tener instalado nodeJS, una vez clonado el proyecto ejecutar el comando:
 
-_npm install_
+_"npm install"_
 
 Una vez ejecutado este comando se creará la carpeta node_module. Despues ejecutar el comando:
 
